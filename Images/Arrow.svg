@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="64"
+   viewBox="0 0 33.866666 16.933333"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Arrow.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="7.1961907"
+     inkscape:cx="63.644783"
+     inkscape:cy="41.480279"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.52916666"
+       spacingy="0.52916666"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid"
+       preserveAspectRatio="xMidYMid"
+       id="pattern20"
+       patternTransform="scale(2)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid"
+       style="fill:#f7f7f7"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4" />
+    </pattern>
+    <linearGradient
+       id="swatch5"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:url(#pattern20);fill-opacity:1;stroke-width:1.32292"
+       d="M 0.5291672,7.9375 H 33.337499 c 0.293158,0 0.529166,0.2360083 0.529166,0.5291666 0,0.2931584 -0.236008,0.5291667 -0.529166,0.5291667 H 0.5291672 C 0.23600888,8.9958333 5.5676264e-7,8.759825 5.5676264e-7,8.4666666 5.5676264e-7,8.1735083 0.23600888,7.9375 0.5291672,7.9375 Z" />
+    <path
+       id="rect2"
+       style="fill:#f7f7f7;stroke-width:1.32292;fill-opacity:1"
+       d="M 22.834683 -17.960877 C 22.739036 -17.865231 22.680116 -17.732914 22.680116 -17.586335 C 22.680116 -17.293177 22.916068 -17.057224 23.209226 -17.057224 L 29.030168 -17.057224 L 29.030168 -11.236282 C 29.030168 -10.943124 29.26612 -10.707172 29.559278 -10.707172 C 29.852436 -10.707172 30.088388 -10.943124 30.088388 -11.236282 L 30.088388 -17.586335 C 30.088388 -17.879493 29.852436 -18.115445 29.559278 -18.115445 L 23.209226 -18.115445 C 23.062647 -18.115445 22.93033 -18.056524 22.834683 -17.960877 z "
+       transform="rotate(45)" />
+  </g>
+</svg>

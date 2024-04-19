@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="total-container">
+        <div id="top-container">
+            <div class="main tile" id="main-container">
+                <div id="location-container">
+                    <img src="/Images/Location.svg" alt="">
+                    <div class="select-container">
+                        <select id="region-select">
+                        <option value="" disabled selected hidden>Select Region</option>
+                        <option value="auto">Auto Detect</option>
+                        </select>
+                        <img src="Images/Dropdown.svg" alt="">
+                    </div>
+                    <span id="coordinates">
+                        (<span id="latitude" class="main">00.000</span>, <span id="longitude" class="main">00.000</span>)
+                    </span>
+                </div>
+                <span id="temperature-container"><span class="temperature main">00</span>°C</span>
+                <div>
+                    <img src="" alt="">
+                    <span class="status main">Select a region</span>
+                </div>
+                <div id="sunset-sunrise-container">
+                    <div id="sunrise-container">
+                        <img src="Images/Sunrise.svg" alt="">
+                        <span id="sunrise-time">00:00</span>
+                    </div>
+                    <img src="Images/Arrow.svg" alt="">
+                    <div id="sunset-container">
+                        <img src="Images/Sunset.svg" alt="">
+                        <span id="sunset-time">00:00</span>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="extras tile">
+                <div class="mode-selector">
+                    <button id="today-selector" disabled>Today</button>
+                    <button id="week-selector">Week</button>
+                </div>
+                <div id="extra-info-container">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="code.js"></script>
+</body>
+</html>
