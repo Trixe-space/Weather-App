@@ -8,4 +8,4 @@ List of countries from: https://github.com/eesur/country-codes-lat-long
 
 WMO code list from: https://gist.github.com/stellasphere/9490c195ed2b53c707087c8c2db4ec0c
 
-Weather condition icons from: https://openweathermap.org
+Weather condition icons from: [OpenWeather](https://openweathermap.org)
